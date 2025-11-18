@@ -120,7 +120,7 @@ LIST_FIELDS = [
     "Links","Courses","Student Opportunities","Mentors","Research Area","Accounts",
     "Areas of Expertise","Education","Presentations","Service","Publications",
     "Grants","Clinical Trials","Awards and Honors","Patents and Copyrights",
-    "Media","Fun Facts","Image","File Name"
+    "Media","Fun Facts","File Name"
 ]
 
 for i, row in df.iterrows():
