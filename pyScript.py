@@ -90,7 +90,6 @@ safe_names = [dedup(n) for n in safe_names]
 # ---------------------------------------------------------
 # SETUP OUTPUT FOLDER
 # ---------------------------------------------------------
-SCRIPT_DIR = Path(__file__).resolve().parent
 projects_path = Path("./projects")
 subfolder_name = "sesh"
 subfolder_path = projects_path / subfolder_name
